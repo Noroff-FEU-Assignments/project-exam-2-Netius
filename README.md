@@ -9,6 +9,7 @@ To take the skills learned over the last two years and take on an extensive proj
 For this assignment you have the choice between getting a real world client that you will manage and build a website for, or a case study to make a hotel booking website.
 
 Whatever project you choose, the final submission must have the following:
+- Functional specification
 - A Gantt chart planning the project
 - A style guide
 - An Adobe XD prototype
